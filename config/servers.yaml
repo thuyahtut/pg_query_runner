@@ -1,0 +1,19 @@
+servers:
+  # - host: server1.example.com
+  #   port: 5432
+  #   user: odoo
+  #   password: your_password
+  #   databases:
+  #     - db1
+  #     - db2
+
+  - ssh_host: 34.56.206.36
+    host_name: Genomic
+    ssh_user: root
+    ssh_port: 22 
+    ssh_key_path: /home/thuya/.ssh/id_rsa
+    db_user: odoo17
+    db_password: odoo17
+    databases:
+      - genomic
+      - genomic-sandbox

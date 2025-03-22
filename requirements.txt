@@ -1,0 +1,6 @@
+psycopg2-binary
+sshtunnel
+PyYAML
+python-dotenv
+tabulate
+openpyxl

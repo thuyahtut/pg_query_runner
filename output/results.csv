@@ -1,0 +1,25 @@
+name,count,Last Created Date,_server,_database
+Contacts,44,18 Mar 2025,34.56.206.36,genomic
+Sales Orders,0,,34.56.206.36,genomic
+Purchase Orders,1,17 Dec 2024,34.56.206.36,genomic
+Products,15,21 Jan 2025,34.56.206.36,genomic
+Manufacture Orders,0,,34.56.206.36,genomic
+Bill of Materials,0,,34.56.206.36,genomic
+Customer Invoices,0,,34.56.206.36,genomic
+Vendor Bills,1,17 Dec 2024,34.56.206.36,genomic
+Payments,2,17 Dec 2024,34.56.206.36,genomic
+Journal Entries,5,17 Dec 2024,34.56.206.36,genomic
+Journals,0,,34.56.206.36,genomic
+Chart of Accounts,0,,34.56.206.36,genomic
+Contacts,44,17 Feb 2025,34.56.206.36,genomic-sandbox
+Sales Orders,0,,34.56.206.36,genomic-sandbox
+Purchase Orders,0,,34.56.206.36,genomic-sandbox
+Products,27,12 Feb 2025,34.56.206.36,genomic-sandbox
+Manufacture Orders,0,,34.56.206.36,genomic-sandbox
+Bill of Materials,0,,34.56.206.36,genomic-sandbox
+Customer Invoices,0,,34.56.206.36,genomic-sandbox
+Vendor Bills,0,,34.56.206.36,genomic-sandbox
+Payments,0,,34.56.206.36,genomic-sandbox
+Journal Entries,1,18 Mar 2025,34.56.206.36,genomic-sandbox
+Journals,0,,34.56.206.36,genomic-sandbox
+Chart of Accounts,0,,34.56.206.36,genomic-sandbox
